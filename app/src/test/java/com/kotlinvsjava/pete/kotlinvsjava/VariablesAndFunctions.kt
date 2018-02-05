@@ -4,7 +4,7 @@ import org.junit.Test
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.Assert.*
 
-class ExampleUnitTest {
+class VariablesAndFunctions {
 
     /*
     NOTES:
